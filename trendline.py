@@ -1,4 +1,4 @@
-# Credits to @Micah on Stack Exchange
+# Credits to @Micah on StackOverflow
 # got this function from https://stackoverflow.com/questions/22239691/code-for-line-of-best-fit-of-a-scatter-plot-in-python
 # Added some of my own code to increase redability and made it work with NaN's in the data
 
