@@ -2,4 +2,4 @@
 
 Explored if people who pay more for a college education receive more money after they graduate.
 
-Data comes from data.gov
+Data comes from https://catalog.data.gov/dataset/college-scorecard
